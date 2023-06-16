@@ -81,7 +81,7 @@ const skillsIcon = [
 ]
 const Technology = () => {
 
-    const [text, setText] = useState("Clique no card para ler mais sobre cada tecnologia");
+    const [text, setText] = useState("Clique no card para ler mais sobre cada tecnologia!");
     const [activeButton, setActiveButton] = useState(-1);
     const handleButtonClick = (numberOfSkill: number, skillText: string) => {
         setText(skillText)
@@ -97,7 +97,7 @@ const Technology = () => {
                         <h1 className="text-title" >Conhecimentos</h1>
 
 
-                        <p >{text}</p>
+                        <p className="description" >{text}</p>
                     </div>
 
                     <div className="skills-icons">
