@@ -89,7 +89,7 @@ const Technology = () => {
     };
     return (
         <section id="s-skills">
-            <div className="grid-layout ">
+            <div >
                 <div className="skills">
                     <div className="skills-text">
 

@@ -2,8 +2,7 @@
   max-width: 1140px;
   margin: 0 auto;
 }
-.grid-layout h1 {
-}
+
 .skills {
   display: flex;
   flex-direction: column-reverse;
@@ -59,8 +58,7 @@
     height: max-content;
     font-size: 1.1rem;
   }
-  .grid-layout {
-  }
+
   .skills {
     flex-direction: unset;
     flex-wrap: nowrap;
