@@ -18,3 +18,8 @@ p {
   color: var(--color-text-secondary);
   font-family: "DM Sans", sans-serif;
 }
+
+.grid-layout {
+  max-width: 1140px;
+  margin: 0 auto;
+}
