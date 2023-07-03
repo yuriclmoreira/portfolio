@@ -5,6 +5,7 @@ import { useEffect, useState } from 'react';
 import Modal from "../Modal";
 import { mokProjects } from "../MockData";
 import emmiter from '../../utils/eventEmitter'
+import { Container } from "react-bootstrap";
 
 export interface Project {
     image?: any;
@@ -40,6 +41,7 @@ const Projects = () => {
 
     return (
 
+
         <section id="s-projects">
             <div className="grid-layout-projects">
 
@@ -66,6 +68,7 @@ const Projects = () => {
 
 
         </section>
+
     )
 }
 export default Projects;
