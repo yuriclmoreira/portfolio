@@ -16,6 +16,7 @@
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
     "react-icons": "^4.9.0",
+    "react-modal": "^3.16.1",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
@@ -45,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "@types/fbemitter": "^2.0.32"
+    "@types/fbemitter": "^2.0.32",
+    "@types/react-modal": "^3.16.0"
   }
 }
