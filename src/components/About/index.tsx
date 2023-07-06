@@ -29,7 +29,7 @@ const About = () => {
                 </div>
                 <div className="about">
                     <h1>Sobre</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita molestiae veniam maiores, vero, ad nostrum repudiandae, unde explicabo aspernatur cupiditate aperiam assumenda fuga libero! Animi, facilis. Atque dolore vero voluptatum.
+                    <p>Bem-vindo ao meu portfólio de desenvolvedor! Estou empolgado em apresentar a você uma seleção dos meus projetos pessoais, demonstrando minha paixão e habilidades na área de desenvolvimento. Ao longo do meu percurso como desenvolvedor, mergulhei em uma variedade de projetos desafiadores, abrangendo desde aplicativos móveis e web. Cada projeto representa meu compromisso em criar soluções eficientes e intuitivas, com foco na experiência do usuário e na excelência técnica.
                     </p>
                 </div>
             </Container>

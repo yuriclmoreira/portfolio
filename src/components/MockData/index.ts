@@ -31,42 +31,42 @@ export const mokProjects = [
     image: imagiflix,
     link: "https://imagiflix-delta.vercel.app",
     describe:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illo error, natus eaque dicta tempora et atque maiores impedit expedita nostrum vitae harum officiis quis temporibus esse quaerat. Voluptates, modi.",
+      "O projeto, denominado Imagiflix, é uma plataforma inspirada na Netflix, que utiliza a API do The Movie DataBase para buscar e exibir filmes e séries nos seus carrosséis de conteúdo. Através dessa integração com a API.",
     icons: [FaReact, SiTailwindcss, SiTypescript, FaCss3Alt],
   },
   {
     image: goodGame,
     link: "https://good-game-4xt6pex8s-yuriclmoreira.vercel.app",
     describe:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illo error, natus eaque dicta tempora et atque maiores impedit expedita nostrum vitae harum officiis quis temporibus esse quaerat. Voluptates, modi.",
+      "O projeto é uma loja online de aparelhos eletrônicos que foi desenvolvido com foco na simplicidade e eficiência. Utilizando a combinação do React com TypeScript e o Sass, a estrutura do projeto é direta e concisa, garantindo um ambiente de desenvolvimento organizado e de fácil manutenção.",
     icons: [FaReact, SiTypescript, FaSass],
   },
   {
     image: magbank,
     link: "https://magbank-three.vercel.app",
     describe:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illo error, natus eaque dicta tempora et atque maiores impedit expedita nostrum vitae harum officiis quis temporibus esse quaerat. Voluptates, modi.",
+      "Bem-vindo ao Magbank, onde você pode desfrutar de uma experiência de simulada de compras e gerenciamento financeiro.Totalmente adaptado para celulares e tablets. ",
     icons: [FaReact, SiJavascript, FaSass, FaCss3Alt, FaBootstrap],
   },
   {
     image: studion,
     link: "https://studion-kappa.vercel.app",
     describe:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illo error, natus eaque dicta tempora et atque maiores impedit expedita nostrum vitae harum officiis quis temporibus esse quaerat. Voluptates, modi.",
+      "Bem-vindo ao site institucional da Studion Eventos! Estamos entusiasmados em compartilhar com você todos os detalhes sobre os eventos incríveis que organizamos. Nosso site foi cuidadosamente desenvolvido com tecnologias HTML e CSS, garantindo uma experiência de navegação perfeita em dispositivos móveis.",
     icons: [FaHtml5, FaCss3Alt, SiTypescript],
   },
   {
     image: imagineshop,
     link: "https://www.loom.com/embed/0acd9f0f60b342b0b597f6f529d57226?sid=30935b07-b9b1-455f-8f88-15756e831e1b",
     describe:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illo error, natus eaque dicta tempora et atque maiores impedit expedita nostrum vitae harum officiis quis temporibus esse quaerat. Voluptates, modi.",
+      "Bem-vindo ao ImagineShop, o seu destino online para aparelhos eletrônicos! Aqui, você pode explorar uma ampla seleção de produtos tecnológicos e adicioná-los ao seu carrinho de compras com facilidade. O nosso e-commerce foi desenvolvido com a poderosa Context API, garantindo uma experiência de compra fluida e eficiente.",
     icons: [SiNextdotjs, SiTypescript, SiMongodb, FaNode, SiStyledcomponents],
   },
   {
     image: pousadaNeneza,
     link: "https://pousada-neneza-d3ycc2376-yuriclmoreira.vercel.app",
     describe:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illo error, natus eaque dicta tempora et atque maiores impedit expedita nostrum vitae harum officiis quis temporibus esse quaerat. Voluptates, modi.",
+      "Bem-vindo ao site da Pousada da Neneza.Este projeto foi cuidadosamente elaborado para proporcionar uma plataforma que reflita a essência encantadora da pousada. Explore as páginas e descubra quartos aconchegantes, decorados com elegância e pensados para o seu total conforto. mAlém disso, você encontrará informações sobre as diversas atividades e atrações da região, permitindo que planeje suas aventuras e descubra os encantos do vale onde estamos localizados.",
     icons: [FaReact, SiTypescript, FaBootstrap],
   },
 ];
